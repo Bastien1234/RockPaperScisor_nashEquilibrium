@@ -12,7 +12,7 @@
 
 	Conclusion : No player seems to win on the long run.
 	Nash player plays perfectly, although it doesn't take any advantage of the imbalance of the bad player (that deviates from the optimal strategy)
-	and therefore doesn't win by a lot, if it ever wins.
+	and therefore doesn't win. Doesn'l lose, doesn't win...
 */
 
 
